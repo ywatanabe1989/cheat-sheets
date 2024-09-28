@@ -6,6 +6,8 @@ Quick reference guides for various tools and technologies.
 
 ## Contents
 
+- [Windows](./windows.md)
+- [Mac](./mac.md) 
 - [Microsoft Office](./ms-office)
   - [Word](./ms-office/word.md)
   - [Excel](./ms-office/excel.md)
