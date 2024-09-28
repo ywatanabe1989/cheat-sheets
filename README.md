@@ -34,6 +34,7 @@ Quick reference guides for tools and technologies for scientific purposes.
 - Version Control
   - [Git](./programming/git.md)
   - [GitHub](./programming/github.md)
+  - [GitLab](./programming/gitlab.md) (placeholder)
 - Containers
   - [Docker](./programming/container/docker.md) (placeholder)
   - [Singularity](./programming/container/singularity.md) (placeholder)
