@@ -17,3 +17,6 @@ Quick reference guides for various tools and technologies.
 - [Markdown](./markdown.md)
 - [Sigmaplot](./sigmaplot.md)
 - [Python](./python.md)
+- [Git](./git.md)
+- [GitHub](./github.md)
+- [Listary](./listary.md)
