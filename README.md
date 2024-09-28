@@ -10,7 +10,7 @@ Quick reference guides for tools and technologies for scientific purposes.
     - [Word](./os/windows/ms-office/word.md)
     - [Excel](./os/windows/ms-office/excel.md)
     - [PowerPoint](./os/windows/ms-office/powerpoint.md)
-  - [WSL](./os/windows/wsl.md) not implemented yet
+  - [WSL](./os/windows/wsl.md) (placeholder)
 
 - [Linux](./os/linux)
   - Distributions
@@ -22,7 +22,7 @@ Quick reference guides for tools and technologies for scientific purposes.
 
 ### Basics
 - [Google Chrome](./basics/chrome.md)
-- [Gmail](./basics/gmail.md) not implemented yet
+- [Gmail](./basics/gmail.md) (placeholder)
 - [Listary](./basics/listary.md)
 - [Markdown](./basics/markdown.md)
 
@@ -35,13 +35,13 @@ Quick reference guides for tools and technologies for scientific purposes.
   - [Git](./programming/git.md)
   - [GitHub](./programming/github.md)
 - Containers
-  - [Docker](./programming/container/docker.md) not implemented yet
-  - [Singularity](./programming/container/singularity.md) not implemented yet
+  - [Docker](./programming/container/docker.md) (placeholder)
+  - [Singularity](./programming/container/singularity.md) (placeholder)
 - Database
-  - [SQL](./programming/sql.md) not implemented yet
-  - [SQLite](./programming/sqlite.md) not implemented yet
-  - [PostgreSQL](./database/postgresql.md) not implemented yet
+  - [SQL](./programming/sql.md) (placeholder)
+  - [SQLite](./programming/sqlite.md) (placeholder)
+  - [PostgreSQL](./database/postgresql.md) (placeholder)
 
 ### Scientific Paper Writing
 - [SigmaPlot](./scientific-paper-writing/sigmaplot.md)
-- [LaTeX](./scientific-paper-writing/latex.md) not implemented yet
+- [LaTeX](./scientific-paper-writing/latex.md) (placeholder)
