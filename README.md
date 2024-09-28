@@ -14,8 +14,8 @@ Quick reference guides for tools and technologies for scientific purposes.
 
 - [Linux](./os/linux)
   - Distributions
-    - [Ubuntu](./os/linux/distro/ubuntu.md)
-    - [Rocky Linux](./os/linux/distro/rocky-linux.md)
+    - [Ubuntu](./os/linux/distributions/ubuntu.md)
+    - [Rocky Linux](./os/linux/distributions/rocky-linux.md)
   - General
     - [Directory](./os/linux/general/directory.md)
     - [Shell](./os/linux/general/shell.md)
