@@ -11,6 +11,7 @@ Quick reference guides for tools and technologies for scientific purposes.
     - [Excel](./os/windows/ms-office/excel.md)
     - [PowerPoint](./os/windows/ms-office/powerpoint.md)
   - [WSL](./os/windows/wsl.md) (placeholder)
+  - [Power Toys](./os/windows/power-toys.md) (placeholder)
 
 - [Linux](./os/linux)
   - Distributions
