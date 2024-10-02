@@ -66,6 +66,17 @@
 | $\cdot$ | `$\cdot$` | $\nabla$ | `$\nabla$` |
 | $x^2$  | `$x^2$`    | $x_i$  | `$x_i$`    |
 | $x^{y+z}$ | `$x^{y+z}$` | $x_{i,j}$ | `$x_{i,j}$` |
+| ∇      | `$\nabla$` | ∆      | `$\Delta$` |
+| ∅      | `$\emptyset$` | ∀   | `$\forall$`|
+| ∃      | `$\exists$`| ¬      | `$\neg$`   |
+| ∧      | `$\wedge$` | ∨      | `$\vee$`   |
+| ⇒      | `$\Rightarrow$` | ⇔ | `$\Leftrightarrow$` |
+| ℝ      | `$\mathbb{R}$` | ℕ  | `$\mathbb{N}$` |
+| ℤ      | `$\mathbb{Z}$` | ℚ  | `$\mathbb{Q}$` |
+| ∘      | `$\circ$`  | ⊕      | `$\oplus$` |
+| ⊗      | `$\otimes$`| ⊥      | `$\perp$`  |
+| ∥      | `$\parallel$` | ≡   | `$\equiv$` |
+| ∝      | `$\propto$`| ∠      | `$\angle$` |
 
 ## Tables
 ```tex
