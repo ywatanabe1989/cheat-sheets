@@ -10,10 +10,19 @@
 \end{document}
 ```
 
-## Text Formatting
-- Bold: `\textbf{text}`
-- Italic: `\textit{text}`
-- Underline: `\underline{text}`
+## Text Formatting and Basic Notations
+| Formatting | LaTeX Code | Basic Notation | LaTeX Code |
+|------------|------------|----------------|------------|
+| Bold | `\textbf{text}` | Line break | `\\` |
+| Italic | `\textit{text}` | Indent | `\indent` |
+| Underline | `\underline{text}` | Page break | `\pagebreak` |
+| Space | `\ ` | New paragraph | `\par` |
+| Non-breaking space | `~` | Left quote | `` ` `` |
+| Horizontal space | `\hspace{1cm}` | Right quote | `'` |
+| Vertical space | `\vspace{1cm}` | Em dash | `---` |
+| Superscript | `$x^2$` | En dash | `--` |
+| Subscript | `$x_2$` | Ellipsis | `\ldots` |
+| | | Degree symbol | `$^\circ$` |
 
 ## Sections
 - `\section{Title}`
@@ -48,35 +57,35 @@
 
 ### Common Mathematical Symbols and Notations
 
-| Symbol | LaTeX Code | Symbol | LaTeX Code |
-|--------|------------|--------|------------|
-| ≤      | `$\leq$`   | ≥      | `$\geq$`   |
-| ≠      | `$\neq$`   | ≈      | `$\approx$`|
-| ±      | `$\pm$`    | ×      | `$\times$` |
-| ÷      | `$\div$`   | ∑      | `$\sum$`   |
-| ∏      | `$\prod$`  | ∫      | `$\int$`   |
-| ∞      | `$\infty$` | √      | `$\sqrt{}$`|
-| ∂      | `$\partial$`| ⊂     | `$\subset$`|
-| ∈      | `$\in$`    | ∪      | `$\cup$`   |
-| ∩      | `$\cap$`   | α      | `$\alpha$` |
-| β      | `$\beta$`  | γ      | `$\gamma$` |
-| δ      | `$\delta$` | ε      | `$\epsilon$`|
-| π      | `$\pi$`    | $\vec{a}$ | `$\vec{a}$` |
-| $\hat{a}$ | `$\hat{a}$` | $\overrightarrow{AB}$ | `$\overrightarrow{AB}$` |
-| $\cdot$ | `$\cdot$` | $\nabla$ | `$\nabla$` |
-| $x^2$  | `$x^2$`    | $x_i$  | `$x_i$`    |
-| $x^{y+z}$ | `$x^{y+z}$` | $x_{i,j}$ | `$x_{i,j}$` |
-| ∇      | `$\nabla$` | ∆      | `$\Delta$` |
-| ∅      | `$\emptyset$` | ∀   | `$\forall$`|
-| ∃      | `$\exists$`| ¬      | `$\neg$`   |
-| ∧      | `$\wedge$` | ∨      | `$\vee$`   |
-| ⇒      | `$\Rightarrow$` | ⇔ | `$\Leftrightarrow$` |
-| ℝ      | `$\mathbb{R}$` | ℕ  | `$\mathbb{N}$` |
-| ℤ      | `$\mathbb{Z}$` | ℚ  | `$\mathbb{Q}$` |
-| ∘      | `$\circ$`  | ⊕      | `$\oplus$` |
-| ⊗      | `$\otimes$`| ⊥      | `$\perp$`  |
-| ∥      | `$\parallel$` | ≡   | `$\equiv$` |
-| ∝      | `$\propto$`| ∠      | `$\angle$` |
+| Symbol | LaTeX Code | Label | Symbol | LaTeX Code | Label |
+|--------|------------|------|--------|------------|------|
+| ≤      | `$\leq$`   | Less than or equal | ≥      | `$\geq$`   | Greater than or equal |
+| ≠      | `$\neq$`   | Not equal | ≈      | `$\approx$`| Approximately equal |
+| ±      | `$\pm$`    | Plus-minus | ×      | `$\times$` | Times |
+| ÷      | `$\div$`   | Division | ∑      | `$\sum$`   | Summation |
+| ∏      | `$\prod$`  | Product | ∫      | `$\int$`   | Integral |
+| ∞      | `$\infty$` | Infinity | √      | `$\sqrt{}$`| Square root |
+| ∂      | `$\partial$`| Partial derivative | ⊂     | `$\subset$`| Subset |
+| ∈      | `$\in$`    | Element of | ∪      | `$\cup$`   | Union |
+| ∩      | `$\cap$`   | Intersection | α      | `$\alpha$` | Alpha |
+| β      | `$\beta$`  | Beta | γ      | `$\gamma$` | Gamma |
+| δ      | `$\delta$` | Delta | ε      | `$\epsilon$`| Epsilon |
+| π      | `$\pi$`    | Pi | $\vec{a}$ | `$\vec{a}$` | Vector |
+| $\hat{a}$ | `$\hat{a}$` | Hat | $\overrightarrow{AB}$ | `$\overrightarrow{AB}$` | Arrow |
+| $\cdot$ | `$\cdot$` | Dot product | $\nabla$ | `$\nabla$` | Nabla |
+| $x^2$  | `$x^2$`    | Superscript | $x_i$  | `$x_i$`    | Subscript |
+| $x^{y+z}$ | `$x^{y+z}$` | Complex superscript | $x_{i,j}$ | `$x_{i,j}$` | Complex subscript |
+| ∇      | `$\nabla$` | Nabla | ∆      | `$\Delta$` | Delta |
+| ∅      | `$\emptyset$` | Empty set | ∀   | `$\forall$`| For all |
+| ∃      | `$\exists$`| Exists | ¬      | `$\neg$`   | Negation |
+| ∧      | `$\wedge$` | Logical AND | ∨      | `$\vee$`   | Logical OR |
+| ⇒      | `$\Rightarrow$` | Implies | ⇔ | `$\Leftrightarrow$` | If and only if |
+| ℝ      | `$\mathbb{R}$` | Real numbers | ℕ  | `$\mathbb{N}$` | Natural numbers |
+| ℤ      | `$\mathbb{Z}$` | Integers | ℚ  | `$\mathbb{Q}$` | Rational numbers |
+| ∘      | `$\circ$`  | Composition | ⊕      | `$\oplus$` | Direct sum |
+| ⊗      | `$\otimes$`| Tensor product | ⊥      | `$\perp$`  | Perpendicular |
+| ∥      | `$\parallel$` | Parallel | ≡   | `$\equiv$` | Equivalent |
+| ∝      | `$\propto$`| Proportional to | ∠      | `$\angle$` | Angle |
 
 ## Tables
 ```tex
