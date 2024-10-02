@@ -78,6 +78,7 @@ function_name
 ```bash
 [ -f file ]  # File exists and is a regular file
 [ -d dir ]   # Directory exists
+[ -e file_or_dir ]  # File or directory exists
 [ -L link ]  # Symbolic link exists
 [ -r file ]  # File is readable
 [ -w file ]  # File is writable
