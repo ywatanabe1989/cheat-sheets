@@ -30,6 +30,15 @@
 | Win + Ctrl + D | Add virtual desktop |
 | Win + Ctrl + F4 | Close current virtual desktop |
 
+## Virtual Screens
+
+| Shortcut | Action |
+|----------|--------|
+| Win + Ctrl + Left/Right | Switch between virtual desktops |
+| Win + Ctrl + D | Create a new virtual desktop |
+| Win + Ctrl + F4 | Close current virtual desktop |
+| Win + Tab | Open Task View (shows all virtual desktops) |
+
 ## Command Prompt
 
 | Command | Description |

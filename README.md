@@ -32,6 +32,7 @@ Quick reference guides for tools and technologies for scientific purposes.
   - [Emacs](./programming/emacs.md)
 - Language
   - [Python](./programming/python.md)
+  - [Shell Script](./programming/shell-script.md)
 - Version Control
   - [Git](./programming/git.md)
   - [GitHub](./programming/github.md)
