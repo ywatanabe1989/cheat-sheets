@@ -79,3 +79,21 @@
 | Wrap words in quotes | `\b(\w+)\b` | `"\1"` |
 | Remove trailing whitespace | `\s+$` | ` ` (empty string) |
 | Convert snake_case to camelCase | `_(\w)` | `\,(upcase \1)` |
+
+
+## Practice 2
+
+```
+font_size_base=10,
+font_size_title=10,
+font_size_axis_label=10,
+font_size_tick_label=8,
+font_size_legend=8,
+```
+
+To change all font sizes to 6 at once, use this pattern and replacement:
+
+```
+Pattern:    \(font_size_[^=]+\)=[0-9]+
+Replace:    \1=6
+```
