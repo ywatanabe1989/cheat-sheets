@@ -84,11 +84,11 @@
 ## Practice 2
 
 ```
-font_size_base=10,
-font_size_title=10,
-font_size_axis_label=10,
-font_size_tick_label=8,
-font_size_legend=8,
+font_size_base=6,
+font_size_title=6,
+font_size_axis_label=6,
+font_size_tick_label=6,
+font_size_legend=6,
 ```
 
 To change all font sizes to 6 at once, use this pattern and replacement:
@@ -96,4 +96,9 @@ To change all font sizes to 6 at once, use this pattern and replacement:
 ```
 Pattern:    \(font_size_[^=]+\)=[0-9]+
 Replace:    \1=6
+```
+or if you simply change the numbers to 6 in a limited region
+```
+Pattern:    =[0-9]+
+Replace:    =6
 ```
