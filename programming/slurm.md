@@ -9,7 +9,7 @@
 | [ ] | `sinfo -p gpu-a100-short` | Check GPU partition status |
 | [ ] | `scancel <jobid>` | Cancel specific job |
 | [ ] | `scontrol show job <jobid>` | Show detailed job info |
-| [ ] | `sinteractive --partition=gpu-a100-short --gres=gpu:1 --time=4:00:00` | Request interactive GPU session |
+| [ ] | `sinteractive --partition=gpu-a100-short --gres=gpu:1 --time=4:00:00 --x11` | Request interactive GPU session |
 | [ ] | `nvidia-smi` | Check GPU usage |
 | [ ] | `htop` | Check CPU/memory usage |
 | [ ] | `watch -n 1 nvidia-smi` | Monitor GPU usage continuously |
