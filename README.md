@@ -10,8 +10,8 @@ Quick reference guides for tools and technologies for scientific purposes.
     - [Word](./os/windows/ms-office/word.md)
     - [Excel](./os/windows/ms-office/excel.md)
     - [PowerPoint](./os/windows/ms-office/powerpoint.md)
-  - [WSL](./os/windows/wsl.md) (placeholder)
-  - [Power Toys](./os/windows/power-toys.md) (placeholder)
+  - [WSL (Windows Subsystem for Linux)](./os/windows/wsl.md)
+  - [Power Toys](./os/windows/power-toys.md)
 
 - [Linux](./os/linux)
   - Distributions
@@ -28,8 +28,10 @@ Quick reference guides for tools and technologies for scientific purposes.
 - [Markdown](./basics/markdown.md)
 
 ### Programming 
-- Editor
+- Emacs
   - [Emacs](./programming/emacs.md)
+    - [mu4e](./programming/emacs/mu4e.md)
+    - [mu4e](./programming/emacs/regexp-replace.md)
 - Language
   - [Python](./programming/python.md)
   - [Shell Script](./programming/shell-script.md)
@@ -41,9 +43,7 @@ Quick reference guides for tools and technologies for scientific purposes.
   - [Docker](./programming/container/docker.md) (placeholder)
   - [Singularity](./programming/container/singularity.md) (placeholder)
 - Database
-  - [SQL](./programming/sql.md) (placeholder)
-  - [SQLite](./programming/sqlite.md) (placeholder)
-  - [PostgreSQL](./database/postgresql.md) (placeholder)
+  - [SQL](./programming/sql.md)
 
 ### Scientific Paper Writing
 - [SigmaPlot](./scientific-paper-writing/sigmaplot.md)
