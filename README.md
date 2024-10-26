@@ -32,7 +32,7 @@ Quick reference guides for tools and technologies for scientific purposes.
   - [Emacs](./programming/emacs.md)
     - [mu4e](./programming/emacs/mu4e.md)
     - [regexp-replace](./programming/emacs/regexp-replace.md)
-    - [org-mode](./programming/emacs/org-mode.md)
+    - [org-mode](./programming/emacs/org-mode.org)
 - Language
   - [Python](./programming/python.md)
   - [Shell Script](./programming/shell-script.md)
