@@ -31,7 +31,8 @@ Quick reference guides for tools and technologies for scientific purposes.
 - Emacs
   - [Emacs](./programming/emacs.md)
     - [mu4e](./programming/emacs/mu4e.md)
-    - [mu4e](./programming/emacs/regexp-replace.md)
+    - [regexp-replace](./programming/emacs/regexp-replace.md)
+    - [org-mode](./programming/emacs/org-mode.md)
 - Language
   - [Python](./programming/python.md)
   - [Shell Script](./programming/shell-script.md)
