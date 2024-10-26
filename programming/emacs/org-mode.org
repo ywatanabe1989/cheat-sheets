@@ -22,8 +22,8 @@
 
 *** Custom States
 #+begin_src elisp
-(setq org-todo-keywords
-      '((sequence "TODO" "IN-PROGRESS" "WAITING" "|" "DONE" "CANCELLED")))
+  (setq org-todo-keywords
+        '((sequence "TODO" "IN-PROGRESS" "WAITING" "|" "DONE" "CANCELLED")))
 #+end_src
 
 ** Lists & Checkboxes
