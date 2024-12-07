@@ -1,3 +1,10 @@
+<!-- ---
+!-- title: ./.cheat-sheets/README.md
+!-- author: ywatanabe
+!-- date: 2024-11-14 16:33:58
+!-- --- -->
+
+
 # Cheat Sheets
 
 Quick reference guides for tools and technologies for scientific purposes.
@@ -17,9 +24,13 @@ Quick reference guides for tools and technologies for scientific purposes.
   - Distributions
     - [Ubuntu](./os/linux/distributions/ubuntu.md)
     - [Rocky Linux](./os/linux/distributions/rocky-linux.md)
-  - General
-    - [Directory](./os/linux/general/directory.md)
-    - [Shell](./os/linux/general/shell.md)
+  - Commands
+    - [Directory](./os/linux/commands/directory.md)
+    - [general](./os/linux/commands/general.md)
+    - [man](./os/linux/commands/man.md)
+    - [find](./os/linux/commands/find.md)
+    - [awk](./os/linux/commands/awk.md)
+    - [sed](./os/linux/commands/sed.md)
 
 ### Basics
 - [Google Chrome](./basics/chrome.md)
